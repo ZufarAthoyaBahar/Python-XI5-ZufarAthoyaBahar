@@ -1,4 +1,3 @@
-# Contoh fungsi rekursi 
 # Menentukan faktorial dari bilangan 
 def faktorial(x):
     if x == 1:
